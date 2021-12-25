@@ -1,1 +1,1 @@
-github和sourceTree-->vue2和vue3（包括底层原理）-->es6语法-->TS语法-->js基础和高级
+github和sourceTree-->vue2和vue3（包括底层原理）-->es6语法-->TS语法-->js基础和高级-->webpack-->vite-->js常用设计模式
